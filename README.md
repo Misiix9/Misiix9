@@ -6,7 +6,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities;Building+Tomorrow's+Solutions+Today"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 </div>
 
-<hr/>
+<br>
 
 ## Professional Summary
 
@@ -36,7 +36,7 @@ Dedicated **Software and Website Engineering** student with a strong foundation 
 - Excellent adaptability to new technologies and frameworks
 - Committed to writing clean, maintainable, and well-documented code
 
-<hr/>
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -64,24 +64,25 @@ Python          ███████████████      75%
 Dart            ██████████████       70%
 ```
 
-### Development Areas
+### Development Focus Areas
 <div align="center">
 
-| **Web Development** | **Mobile Development** | **Desktop Applications** |
+| **Frontend Development** | **Backend Development** | **Mobile & Desktop** |
 |:---:|:---:|:---:|
-| React Applications | Cross-Platform Mobile | Native Desktop Apps |
-| Modern JavaScript | Flutter/Dart | C# Applications |
-| Responsive Design | Mobile UI/UX | System Integration |
+| React Ecosystem | API Development | Cross-Platform Apps |
+| Modern JavaScript | Database Design | Flutter/Dart |
+| Responsive Design | System Integration | Desktop Applications |
+| UI/UX Implementation | Server Architecture | Native Performance |
 
 </div>
 
-### Additional Skills
+### Technical Skills & Tools
 - **Version Control:** Git, GitHub, GitLab workflow management
 - **Development Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
 - **Problem Solving:** Algorithm design, debugging, performance optimization
 - **System Administration:** Linux environments, Hyprland customization, shell scripting
-- **Database Management:** SQL, database design principles
-- **API Development:** RESTful services, API integration and testing
+- **Database Management:** SQL, database design principles, data modeling
+- **API Development:** RESTful services, API integration, testing frameworks
 - **Code Quality:** Clean code principles, code reviews, documentation standards
 
 <br>
@@ -160,6 +161,12 @@ Dart            ██████████████       70%
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misiix9&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Misiix9&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+</div>
+
 <br>
 
 ## Professional Contact
@@ -170,8 +177,12 @@ Dart            ██████████████       70%
 
 **Open to remote, hybrid, or on-site opportunities**
 
-<img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
-<img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/>
+<div align="center">
+
+![Gmail](https://img.shields.io/badge/mihalygyori05@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=000000)
+![Instagram](https://img.shields.io/badge/@gyr.misi-ffffff?style=for-the-badge&logo=instagram&logoColor=000000)
+
+</div>
 
 **Location:** Hungary | **Status:** Actively seeking opportunities
 
@@ -179,9 +190,9 @@ Dart            ██████████████       70%
 
 </div>
 
-<hr/>
-
 <div align="center">
+
+---
 
 <img src="https://komarev.com/ghpvc/?username=Misiix9&label=Profile%20Views&color=ffffff&style=flat-square"/>
 
