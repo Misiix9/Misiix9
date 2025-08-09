@@ -7,8 +7,12 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## Professional Achievements
@@ -36,6 +40,10 @@ Dedicated **Software and Website Engineering** student with a strong foundation 
 - Committed to writing clean, maintainable, and well-documented code
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## Technical Expertise
 
@@ -81,19 +89,23 @@ Dart            ██████████████       70%
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## Featured Projects
 
-### 🖥️ Hyprland Customization Suite
+### Hyprland Customization Suite
 **Technologies:** Linux, Shell Scripting, System Configuration, Wayland  
 **Description:** Advanced Linux desktop environment optimization focusing on developer productivity and system efficiency. Custom configurations for window management, workspace automation, and aesthetic improvements.  
 **Impact:** Enhanced development workflow and system performance for daily programming tasks.
 
-### 🌐 Professional Web Applications
+### Professional Web Applications
 **Technologies:** React, JavaScript, Responsive Design, Modern CSS  
 **Description:** Full-stack web solutions demonstrating modern development practices, component-based architecture, and user-centered design principles.  
 **Impact:** Showcasing technical capabilities and understanding of production-ready application development.
 
-### 📱 Cross-Platform Mobile Projects
+### Cross-Platform Mobile Projects
 **Technologies:** Flutter, Dart, Mobile UI/UX, Platform Integration  
 **Description:** Mobile applications targeting both iOS and Android platforms, focusing on consistent user experience and native performance optimization.  
 **Impact:** Demonstrating versatility in multi-platform development and mobile-first design thinking.
@@ -126,6 +138,10 @@ Dart            ██████████████       70%
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## GitHub Analytics
 
 <div align="center">
@@ -151,23 +167,33 @@ Dart            ██████████████       70%
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misiix9&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
 ---
 
 ## Professional Contact
 
 <div align="center">
 
-**🚀 Available for entry-level positions, internships, and collaborative projects**
+**Available for entry-level positions, internships, and collaborative projects**
 
-**💼 Open to remote, hybrid, or on-site opportunities**
+**Open to remote, hybrid, or on-site opportunities**
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihalygyori05@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gyr.misi)
 
-**📍 Location:** Hungary 🇭🇺 | **⚡ Status:** Actively seeking opportunities
+**Location:** Hungary | **Status:** Actively seeking opportunities
 
-**🎯 Preferred Roles:** Junior Full-Stack Developer, Frontend Developer, Software Engineer Intern
+**Preferred Roles:** Junior Full-Stack Developer, Frontend Developer, Software Engineer Intern
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -176,12 +202,16 @@ Dart            ██████████████       70%
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Misiix9&label=Profile%20Views&color=000000&style=flat-square)
 
----
+<br>
 
-💭 *"Quality code is not written by perfect developers, but by good developers using proven practices."*
+*"Quality code is not written by perfect developers, but by good developers using proven practices."*
 
----
+<br>
 
-⭐ **If you find my work interesting, feel free to star my repositories and connect!**
+**Thank you for visiting my profile. Feel free to explore my repositories and connect for collaboration opportunities.**
 
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer"/>
 </div>
