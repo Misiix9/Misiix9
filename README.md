@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,6 +28,12 @@
 Dedicated **Software and Website Engineering** student with a strong foundation in modern development technologies and a passion for creating scalable, user-focused applications. Experienced in full-stack web development, cross-platform mobile applications, and desktop software solutions. Actively seeking entry-level opportunities to contribute to innovative development teams.
 
 **Current Focus:** Building production-ready applications using React ecosystem and exploring system-level customization projects.
+
+**Key Strengths:**
+- Strong problem-solving abilities with a systematic approach to debugging and optimization
+- Proficient in modern development practices including version control, testing, and agile methodologies
+- Excellent adaptability to new technologies and frameworks
+- Committed to writing clean, maintainable, and well-documented code
 
 ---
 
@@ -65,10 +71,13 @@ Dart            ██████████████       70%
 </div>
 
 ### Additional Skills
-- **Version Control:** Git, GitHub
-- **Development Methodologies:** Agile, Test-Driven Development
-- **Problem Solving:** Algorithm design, debugging, optimization
-- **System Administration:** Linux environments, Hyprland customization
+- **Version Control:** Git, GitHub, GitLab workflow management
+- **Development Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
+- **Problem Solving:** Algorithm design, debugging, performance optimization
+- **System Administration:** Linux environments, Hyprland customization, shell scripting
+- **Database Management:** SQL, database design principles
+- **API Development:** RESTful services, API integration and testing
+- **Code Quality:** Clean code principles, code reviews, documentation standards
 
 ---
 
@@ -93,9 +102,10 @@ Dart            ██████████████       70%
 
 ## Professional Goals
 
-- Transition from academic learning to professional software development
-- Contribute to meaningful projects that solve real-world problems
-- Build expertise in scalable application architecture and modern development practices
+- **Immediate:** Transition from academic learning to professional software development in a collaborative team environment
+- **Short-term:** Contribute to meaningful projects that solve real-world problems and create positive user impact
+- **Long-term:** Build expertise in scalable application architecture, cloud technologies, and modern development practices
+- **Career Vision:** Evolve into a senior developer role with specialization in full-stack development and system architecture
 
 ---
 
@@ -108,9 +118,11 @@ Dart            ██████████████       70%
 - Agile development practices and collaborative coding
 
 **Self-Directed Learning:**
-- Open source contribution practices
-- Cloud platforms and deployment strategies
+- Open source contribution practices and community engagement
+- Cloud platforms and deployment strategies (AWS, Docker, CI/CD)
 - UI/UX design principles for developers
+- Advanced React patterns and state management
+- Modern development tools and productivity optimization
 
 ---
 
@@ -145,12 +157,16 @@ Dart            ██████████████       70%
 
 <div align="center">
 
-**Available for entry-level positions, internships, and collaborative projects**
+**🚀 Available for entry-level positions, internships, and collaborative projects**
+
+**💼 Open to remote, hybrid, or on-site opportunities**
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihalygyori05@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gyr.misi)
 
-**Location:** Hungary 🇭🇺 | **Status:** Actively seeking opportunities
+**📍 Location:** Hungary 🇭🇺 | **⚡ Status:** Actively seeking opportunities
+
+**🎯 Preferred Roles:** Junior Full-Stack Developer, Frontend Developer, Software Engineer Intern
 
 </div>
 
@@ -158,8 +174,14 @@ Dart            ██████████████       70%
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Misiix9&label=Profile%20Views&color=111111&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Misiix9&label=Profile%20Views&color=000000&style=flat-square)
 
-*"Quality code is not written by perfect developers, but by good developers using proven practices."*
+---
+
+💭 *"Quality code is not written by perfect developers, but by good developers using proven practices."*
+
+---
+
+⭐ **If you find my work interesting, feel free to star my repositories and connect!**
 
 </div>
