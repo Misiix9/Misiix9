@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Mihály%20Győri&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00000000&height=120&section=header&text=Mihály%20Győri&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 # Mihály Győri (Onxy)
@@ -7,25 +7,23 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities"/>
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<br>
 
 ## Professional Achievements
 <div align="center">
 
-![Student](https://img.shields.io/badge/Student-Software%20Engineering-000000?style=flat-square&logo=graduation-cap&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack-000000?style=flat-square&logo=code&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Hungary-000000?style=flat-square&logo=location&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Available-000000?style=flat-square&logo=check&logoColor=white)
+![Student](https://img.shields.io/badge/Student-Software%20Engineering-ffffff?style=flat-square&logo=graduation-cap&logoColor=000000)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack-ffffff?style=flat-square&logo=code&logoColor=000000)
+![Location](https://img.shields.io/badge/Location-Hungary-ffffff?style=flat-square&logo=location&logoColor=000000)
+![Status](https://img.shields.io/badge/Status-Available-ffffff?style=flat-square&logo=check&logoColor=000000)
 
 </div>
 
----
+<hr/>
 
 ## Professional Summary
 
@@ -39,7 +37,7 @@ Dedicated **Software and Website Engineering** student with a strong foundation 
 - Excellent adaptability to new technologies and frameworks
 - Committed to writing clean, maintainable, and well-documented code
 
----
+<hr/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -50,11 +48,11 @@ Dedicated **Software and Website Engineering** student with a strong foundation 
 ### Core Technologies
 <div align="center">
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=000000)
+![C#](https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=c-sharp&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000)
+![Dart](https://img.shields.io/badge/Dart-ffffff?style=for-the-badge&logo=dart&logoColor=000000)
 
 </div>
 
@@ -87,11 +85,7 @@ Dart            ██████████████       70%
 - **API Development:** RESTful services, API integration and testing
 - **Code Quality:** Clean code principles, code reviews, documentation standards
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<br>
 
 ## Featured Projects
 
@@ -110,7 +104,7 @@ Dart            ██████████████       70%
 **Description:** Mobile applications targeting both iOS and Android platforms, focusing on consistent user experience and native performance optimization.  
 **Impact:** Demonstrating versatility in multi-platform development and mobile-first design thinking.
 
----
+<br>
 
 ## Professional Goals
 
@@ -119,7 +113,7 @@ Dart            ██████████████       70%
 - **Long-term:** Build expertise in scalable application architecture, cloud technologies, and modern development practices
 - **Career Vision:** Evolve into a senior developer role with specialization in full-stack development and system architecture
 
----
+<br>
 
 ## Education & Professional Development
 
@@ -136,11 +130,7 @@ Dart            ██████████████       70%
 - Advanced React patterns and state management
 - Modern development tools and productivity optimization
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<br>
 
 ## GitHub Analytics
 
@@ -149,12 +139,12 @@ Dart            ██████████████       70%
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misiix9&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=434343&icon_color=000000)
+<img src="https://github-readme-stats.vercel.app/api?username=Misiix9&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Misiix9&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=434343)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misiix9&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
 
 </td>
 </tr>
@@ -163,15 +153,15 @@ Dart            ██████████████       70%
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Misiix9&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=434343&sideLabels=434343)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Misiix9&theme=default&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misiix9&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misiix9&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
----
+<br>
 
 ## Professional Contact
 
@@ -181,8 +171,8 @@ Dart            ██████████████       70%
 
 **Open to remote, hybrid, or on-site opportunities**
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihalygyori05@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gyr.misi)
+<img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
+<img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/>
 
 **Location:** Hungary | **Status:** Actively seeking opportunities
 
@@ -190,17 +180,11 @@ Dart            ██████████████       70%
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
+<hr/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Misiix9&label=Profile%20Views&color=000000&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=Misiix9&label=Profile%20Views&color=ffffff&style=flat-square"/>
 
 <br>
 
@@ -213,5 +197,5 @@ Dart            ██████████████       70%
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00000000&height=80&section=footer"/>
 </div>
