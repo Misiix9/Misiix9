@@ -1,3 +1,19 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  font-family: 'Lexend', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lexend', sans-serif !important;
+}
+
+p, span, div, td, th, li {
+  font-family: 'Lexend', sans-serif !important;
+}
+</style>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Mihály%20Győri&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </div>
