@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -56,12 +56,12 @@ Dedicated **Software and Website Engineering** student with a strong foundation 
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=434343&icon_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misiix9&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=434343&icon_color=000000)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=434343)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Misiix9&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=434343)
 
 </td>
 </tr>
@@ -70,7 +70,7 @@ Dedicated **Software and Website Engineering** student with a strong foundation 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=434343&sideLabels=434343)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Misiix9&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=434343&sideLabels=434343)
 
 </div>
 
@@ -122,7 +122,7 @@ Dedicated **Software and Website Engineering** student with a strong foundation 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=black&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Misiix9&label=Profile%20Views&color=black&style=flat-square)
 
 *"Quality code is not written by perfect developers, but by good developers using proven practices."*
 
