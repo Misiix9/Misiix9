@@ -158,7 +158,7 @@ Dart            ██████████████       70%
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Misiix9&label=Profile%20Views&color=black&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Misiix9&label=Profile%20Views&color=111111&style=flat-square)
 
 *"Quality code is not written by perfect developers, but by good developers using proven practices."*
 
