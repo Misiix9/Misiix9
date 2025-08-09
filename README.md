@@ -1,109 +1,129 @@
-# Hey there! 👋 I'm Onxy
+# Mihály Győri (Onxy)
+## Software & Website Engineering Student | Full-Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=Software+%26+Website+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Building+Web%2C+Mobile+%26+Desktop+Apps;From+Hungary+%F0%9F%87%AD%F0%9F%87%BA" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-Currently diving deep into **Software and Website Engineering** with a passion for creating applications across all platforms! I love bringing ideas to life through code, whether it's a sleek web interface, a mobile app, or a desktop application.
-
-- 🎓 **Studying:** Software and Website Engineering  
-- 🌍 **Location:** Hungary 🇭🇺  
-- 💼 **Goal:** Landing my first job in the programming industry  
-- 🤝 **Status:** Open to collaboration and job opportunities  
-- 🛠️ **Current Project:** Hyprland customization project  
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🔥 Main Languages & Technologies  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-
-### 🎯 What I Build  
-![Web Apps](https://img.shields.io/badge/Web%20Apps-000000?style=for-the-badge)  
-![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-000000?style=for-the-badge)  
-![Desktop Apps](https://img.shields.io/badge/Desktop%20Apps-000000?style=for-the-badge)  
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+Dart;Full-Stack+%26+Cross-Platform+Development;Available+for+Entry-Level+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Professional Summary
+
+Dedicated **Software and Website Engineering** student with a strong foundation in modern development technologies and a passion for creating scalable, user-focused applications. Experienced in full-stack web development, cross-platform mobile applications, and desktop software solutions. Actively seeking entry-level opportunities to contribute to innovative development teams.
+
+**Current Focus:** Building production-ready applications using React ecosystem and exploring system-level customization projects.
+
+---
+
+## Technical Expertise
+
+### Core Technologies
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+</div>
+
+### Development Areas
+<div align="center">
+
+| **Web Development** | **Mobile Development** | **Desktop Applications** |
+|:---:|:---:|:---:|
+| React Applications | Cross-Platform Mobile | Native Desktop Apps |
+| Modern JavaScript | Flutter/Dart | C# Applications |
+| Responsive Design | Mobile UI/UX | System Integration |
+
+</div>
+
+### Additional Skills
+- **Version Control:** Git, GitHub
+- **Development Methodologies:** Agile, Test-Driven Development
+- **Problem Solving:** Algorithm design, debugging, optimization
+- **System Administration:** Linux environments, Hyprland customization
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Onxy-M&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onxy-M&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" alt="Top Languages" />
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=434343&icon_color=000000)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=434343)
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Onxy-M&theme=dark&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=434343&sideLabels=434343)
+
 </div>
 
 ---
 
-## 🌟 GitHub Activity
+## Current Projects & Interests
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onxy-M&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+### 🔧 **Active Development**
+- **Hyprland Customization Project** - Advanced Linux desktop environment configuration and optimization
+- **Full-Stack Web Applications** - Modern React-based solutions with robust backend integration
+- **Cross-Platform Mobile Development** - Flutter/Dart applications for iOS and Android
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onxy-M&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+### � **Professional Goals**
+- Transition from academic learning to professional software development
+- Contribute to meaningful projects that solve real-world problems
+- Build expertise in scalable application architecture and modern development practices
 
 ---
 
-## 📈 Contribution Snake
+## Education & Professional Development
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Onxy-M/Onxy-M/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+**Software and Website Engineering** | *Currently Pursuing*
+- Advanced programming concepts and software architecture
+- Modern web development frameworks and methodologies  
+- Database design, API development, and system integration
+- Agile development practices and collaborative coding
 
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihalygyori05@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gyr.misi)  
-
-</div>
+**Self-Directed Learning:**
+- Open source contribution practices
+- Cloud platforms and deployment strategies
+- UI/UX design principles for developers
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Onxy-M&label=Profile%20Views&color=000000&style=flat-square" alt="Profile Views" />
-</div>
+## Professional Contact
 
 <div align="center">
-  <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+
+**Available for entry-level positions, internships, and collaborative projects**
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihalygyori05@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gyr.misi)
+
+**Location:** Hungary 🇭🇺 | **Status:** Actively seeking opportunities
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" alt="Footer" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=black&style=flat-square)
+
+*"Quality code is not written by perfect developers, but by good developers using proven practices."*
+
 </div>
