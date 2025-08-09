@@ -2,7 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00000000&height=120&section=header&text=Mihály%20Győri&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
-# Mihály Győri (Onxy)
 ## Software & Website Engineering Student | Full-Stack Developer
 
 <div align="center">
